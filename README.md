@@ -1,5 +1,5 @@
 # Netflix Shows Exploratory Data Analysis
-
+![](images/wordcloud.png)
 In this notebook, I will examine the dataset consisting of Movies and TV Shows on Netflix. Afterwards, I will visualize the data that I have obtained from these reviews and that I consider important. I wrote some questions to demonstrate this in a simpler way. In my study, I will try to answer the questions I wrote below with the analyzes I have made. Finally, I think I should point out that I separated Movies and TV Shows while doing my analysis. I thought this method would be more useful and meaningful since they are two different branches.
 
 * What is the distribution of Movies and TV Shows on Netflix ?
@@ -30,7 +30,13 @@ To briefly talk about the dataset, the dataset consists of Movies and TV Shows a
 * listed_in    : Genre
 * description  : The summary description
 
+![](images/data.png)
+
 <a href = 'https://www.kaggle.com/shivamb/netflix-shows'>You can access the dataset here</a>
 
 ## Exploratory Data Analysis
 I made the analysis of Netflix shows using many features such as director, cast, country, date, rating, duration, genre. You can see some of them below.
+![](images/directors.png)
+![](images/actors.png)
+
+It doesn't make much sense to review the notebook on github because the images are not visible. <a href = 'https://nbviewer.jupyter.org/github/berk77/Netflix_Shows_EDA/blob/main/netflix-shows-eda.ipynb'>If you want you can find the notebook here</a>
