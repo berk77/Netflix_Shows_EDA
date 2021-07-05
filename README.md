@@ -39,4 +39,4 @@ I made the analysis of Netflix shows using many features such as director, cast,
 ![](images/directors.png)
 ![](images/actors.png)
 
-It doesn't make much sense to review the notebook on github because the images are not visible. <a href = 'https://nbviewer.jupyter.org/github/berk77/Netflix_Shows_EDA/blob/main/netflix-shows-eda.ipynb'>If you want you can find the notebook here</a>
+It doesn't make much sense to review the notebook on github because the images are not visible. <a href = 'https://nbviewer.jupyter.org/github/berk77/Netflix_Shows_EDA/blob/main/netflix-shows-eda.ipynb'>If you wish, you can access the notebook here.</a>
